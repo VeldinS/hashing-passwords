@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_USER" : "veldin",
+    "DB_PASSWORD" : "V3ldin123",
+    "DB_NAME" : "hashedPasswords"
+  }
+}
